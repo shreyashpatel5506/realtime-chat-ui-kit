@@ -6,4 +6,4 @@ PulseTalk is actively maintained as a real-time chat application.
 - Security: JWT, Cloudinary
 - Focus: Stability, performance, and UX
 
-Last reviewed: Tue Mar 31 05:44:59 UTC 2026
+Last reviewed: Tue Apr  7 05:47:55 UTC 2026
