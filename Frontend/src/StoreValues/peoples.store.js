@@ -1,3 +1,4 @@
+// ClarityCode fix note: Array element access at index 0 without visible length guard may fail on empty arrays.
 import { axiosInstance } from "../lib/axios";
 import { create } from "zustand";
 
