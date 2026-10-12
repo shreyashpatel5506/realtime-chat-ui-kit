@@ -1,3 +1,4 @@
+// ClarityCode fix note: Array element access at index 0 without visible length guard may fail on empty arrays.
 import React, { useRef, useState, useEffect } from 'react';
 import { useChatStore } from '../StoreValues/useChat.Store';
 import { Image, X, Send, Smile } from 'lucide-react';
